@@ -19,3 +19,6 @@ Learning curve with Bootstrapping
 Naive Bayes  
 Text classification for sentiment analysis  
 Evaluation: ROC curve  
+  
+- Final Project  
+Predict ratings of an Airbnb listing
